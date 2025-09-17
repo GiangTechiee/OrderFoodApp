@@ -132,7 +132,21 @@ implementation "com.google.android.material:material:1.9.0"
 
 ## 📱 Screenshots
 
-*Thêm screenshots của ứng dụng tại đây*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67416771-9e0c-454a-b903-d688b4134e23" width="200" alt="Splash Screen" />
+  <img src="https://github.com/user-attachments/assets/8539b66d-871f-46ef-b5e0-6ada73610cf9" width="200" alt="Màn hình chính" />
+  <img src="https://github.com/user-attachments/assets/4a49f338-1ab6-4e0c-aba5-531a6350775a" width="200" alt="Danh sách món ăn" />
+  <img src="https://github.com/user-attachments/assets/81e0ebcd-a74c-489b-96c3-4aefa2896642" width="200" alt="Chi tiết món ăn" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a94b563e-cb1f-402d-ad00-4a67840780d7" width="200" alt="Thêm món ăn" />
+  <img src="https://github.com/user-attachments/assets/b5d124f8-1ea8-4919-b655-e4427ade4328" width="200" alt="Sửa món ăn" />
+  <img src="https://github.com/user-attachments/assets/36a000a6-dcd7-4eb7-9644-f0eb9544dc50" width="200" alt="Tìm kiếm" />
+  <img src="https://github.com/user-attachments/assets/413fd035-6c09-4c82-826e-50cd08dea5b5" width="200" alt="Giỏ hàng" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d29f296-7668-49a8-af57-743a51977ebe" width="200" alt="Đặt hàng" />
+</p>
 
 ## 🔧 Hướng dẫn sử dụng
 
